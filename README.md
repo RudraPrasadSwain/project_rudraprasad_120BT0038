@@ -8,7 +8,7 @@ This is a simple in-memory file system implementation with basic file system ope
 1. Clone the repository:
 
    ```bash
-    https://github.com/RudraPrasadSwain/project_rudraprasad_120BT0038.git
+      https://github.com/RudraPrasadSwain/project_rudraprasad_120BT0038.git
    ```
 
 2. Navigate to the project directory:
